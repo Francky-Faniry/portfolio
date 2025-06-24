@@ -25,7 +25,7 @@
 
    #icons-list {
         display: grid; /*pour créer une grille */
-        grid-template-columns: repeat(8, 1fr); /*grille de 8 colonne*/
+        grid-template-columns: repeat(4, 1fr); /*grille de 8 colonne*/
         grid-template-rows: repeat(2, 1fr); /*grille de 2 ligne*/
         grid-column-gap: 5px; /*espace entre les colonne*/
         grid-row-gap: 50px;/*espace entre les lignes*/
